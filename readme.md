@@ -1,4 +1,4 @@
 ```csharp
 Discord : Frosty#3333
-Languages : JavaScript & C#
+Languages : JavaScript, C#, Lua 
 ```
